@@ -1,0 +1,11 @@
+int x, y; 
+x = 4; 
+y = 5; 
+printf("x=%d",&x); 
+printf("y=%d",&y);
+return 0;
+
+Total number of white spaces = 27
+Total number of blank lines = 5
+Total number of single lines = 5
+Total number of multi lines = 9

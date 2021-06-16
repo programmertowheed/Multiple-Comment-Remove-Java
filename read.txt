@@ -1,0 +1,21 @@
+/*
+*this is multi line 
+*comment system
+*/
+
+int x,   y; //declaring variables
+x =    4; //initializing variables
+y =     5; //initializing variables
+
+/*display the values*/
+
+//This is single line comment
+
+/*
+*And another
+*this is multi line comment
+*/
+
+printf("x=%d",&x); ///this is print function
+printf("y=%d",&y);
+return      0;
